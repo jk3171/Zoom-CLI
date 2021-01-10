@@ -1,5 +1,5 @@
 # Welcome to Zoom-CLI  
-An easier way to automate joining Zoom meetings (e.g. classes for school, business meetings, etc.)
+An easier way to automate joining Zoom meetings (e.g. classes for school, business meetings, etc.)  
 **Created by JK3171**  
 Created using _Python 3.7.3_  
 - - - -
