@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: ZoomCLI
+Version: 1.0
+Summary: An easier way to automate joining Zoom meetings (e.g classes for school, business conferences, etc.
+Home-page: https://github.com/jk3171/Zoom-CLI
+Author: JK3171
+Author-email: jk3171@jk3171tech.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: macOS
+Classifier: Intended Audience :: Business/Educational

@@ -1,0 +1,9 @@
+README.md
+setup.py
+zoom-cli/__init__.py
+zoom-cli/zoomcli.py
+zoom_cli.egg-info/PKG-INFO
+zoom_cli.egg-info/SOURCES.txt
+zoom_cli.egg-info/dependency_links.txt
+zoom_cli.egg-info/entry_points.txt
+zoom_cli.egg-info/top_level.txt
