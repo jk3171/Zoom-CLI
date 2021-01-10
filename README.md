@@ -1,4 +1,4 @@
-# Welcome to Zoom-CLI  
+# Welcome to Zoom-CLI - [CURRENTLY BROKEN]  
 An easier way to automate joining Zoom meetings (e.g. classes for school, business meetings, etc.)  
 **Created by JK3171**  
 Created using _Python 3.7.3_  
