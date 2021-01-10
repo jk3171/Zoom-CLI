@@ -1,6 +1,6 @@
 # Welcome to Zoom-CLI!
-**Created by JK3171**
-_Python 3.7.3_
+**Created by JK3171**  
+Created using _Python 3.7.3_  
 An easier way to automate joining Zoom meetings (e.g. classes for school, business meetings, etc.)
 - - - -
 ## Installation
